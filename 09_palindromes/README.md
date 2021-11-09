@@ -17,3 +17,10 @@ palindromes('tacos') // false
 ```
 
 
+acaramanamaraca
+
+Input: word or phrase
+1. remove all punctuation and spaces from input
+2. convert input to lowercase and store as variable
+3. reverse the order and store in a new variable
+4. compare variables -- if ===, then return true; if !==, then return false
